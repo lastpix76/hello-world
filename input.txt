@@ -1,5 +1,5 @@
 First A1 Ukraine 9.99 ABCstore
 Second A2 Germany 19.99 XYZstore
 Third A3 USA 24.99 QWEstore
-First A1 Canada 15.95 ASDstore
+First A1 Canada 15.95 ASDs
 Second A2 Poland 17.99 XYZstore
